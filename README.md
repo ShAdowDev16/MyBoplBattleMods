@@ -1,2 +1,2 @@
 # MyBoplBattleMods
-The mods for Bopl Battle that i created.
+The mods for Bopl Battle that I created.
